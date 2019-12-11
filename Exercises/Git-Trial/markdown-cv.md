@@ -1,5 +1,7 @@
 # Ali Fawzi Fawaz
 
+## <img src="pic.jpg" alt="my pic" style="width:200px;"/>
+
 > **Address:** Beirut,Msaitbeh , Lebanon \
 > **Mobile:** +961-71 \949219
 > **Email:** ali.fawzi.fawaz@gmail.com
