@@ -1,0 +1,19 @@
+header {
+  background-color: gray;
+}
+.contact-value {
+  background-color: black;
+  display: inline-block;
+}
+a {
+  color: red;
+}
+
+.contact {
+  margin: 0;
+}
+
+.contact-type {
+  background-color: red;
+  float: inline-start;
+}
