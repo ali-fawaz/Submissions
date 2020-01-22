@@ -1,0 +1,24 @@
+{
+  "name": "ali",
+  "version": "1.0.0",
+  "description": "codi database",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "coditech submissions"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "moi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
