@@ -1,0 +1,71 @@
+/*Navbar Style*/
+
+.navbar a:hover {
+  border-bottom: solid 3px chocolate;
+}
+/*Default Styles*/
+h1 {
+  font-family: "PT Sans Narrow", Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+body {
+  overflow-x: hidden;
+  overflow-x: hidden;
+}
+.btn {
+  transition: all 300ms ease-in-out;
+  font-weight: 500 !important;
+  text-transform: uppercase;
+}
+.btn :hover {
+  background-color: #ededed !important;
+  color: #3c3c3c;
+  border: 1px solid #fff !important;
+}
+
+/*Header Style----------*/
+.header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url(../images/pic.jpeg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.header h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 70px;
+  margin-top: 250px;
+}
+.header h3 {
+  text-align: center;
+  color: #fff;
+}
+
+.header span {
+  font-size: 20px;
+  position: relative;
+  top: -10px;
+  color: chocolate;
+}
+
+.header strong {
+  color: chocolate;
+}
+
+.flex-container {
+  display: flex !important;
+  border: 1px solid transparent !important;
+  height: 100px;
+  justify-content: center;
+}
+
+.flex {
+  text-align: center;
+  align-self: center;
+  color: #fff;
+  border-radius: 2;
+  border: 0;
+  background-color: #12122d;
+}

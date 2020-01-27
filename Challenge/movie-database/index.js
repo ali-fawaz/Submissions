@@ -11,4 +11,9 @@ app.get("/time", (req, res) => {
   res.send({ status: 200, message: `${t1}:${t2}` });
 });
 
+app.get("/hello/:ID?", (req, res) => {
+  var x = req.params.ID;
+  res.send({ status: 200, message: "Hello ", x });
+});
+
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
